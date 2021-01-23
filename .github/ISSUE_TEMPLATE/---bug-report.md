@@ -2,7 +2,7 @@
 name: "\U0001F41E Bug report"
 about: Something not working as expected? Let us know here!
 title: "[BUG] Short description of bug here"
-labels: "eng: needs triage, \U0001F41E bug"
+labels: "needs triage, \U0001F41E bug"
 assignees: ''
 
 ---

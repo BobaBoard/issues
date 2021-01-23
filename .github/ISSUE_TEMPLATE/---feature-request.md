@@ -2,7 +2,7 @@
 name: "\U0001F60E Feature request"
 about: Suggest a new feature or an improvement to an existing one here!
 title: "[REQUEST] Short description of request here"
-labels: "eng: needs triage, \U0001F576 enhancement"
+labels: "eng: needs triage, \U0001F60E enhancement"
 assignees: ''
 
 ---

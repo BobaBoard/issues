@@ -3,7 +3,7 @@ name: "⚙️ Task"
 about: "(ENGINEERS ONLY) Add something that needs to get done that doesn't fit into
   either of the above categories."
 title: ''
-labels: needs triage, ⚙️ task
+labels: '\U0001F6A7 To sort, ⚙️ task'
 assignees: ''
 
 ---

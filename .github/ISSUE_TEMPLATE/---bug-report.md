@@ -1,8 +1,8 @@
 ---
-name: "\U0001F41E Bug report"
+name: "\U0001FAB3 Bug report"
 about: Something not working as expected? Let us know here!
 title: "[BUG] Short description of bug here"
-labels: "needs triage, \U0001F41E bug"
+labels: "\U0001F6A7 To sort, \U0001FAB3 bug"
 assignees: ''
 
 ---

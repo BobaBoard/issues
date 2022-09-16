@@ -1,8 +1,8 @@
 ---
-name: "\U0001F60E Feature request"
+name: "\U0001F41E Feature Request"
 about: Suggest a new feature or an improvement to an existing one here!
 title: "[REQUEST] Short description of request here"
-labels: "needs triage, \U0001F60E enhancement"
+labels: "\U0001F6A7 To sort, \U0001F41E Feature"
 assignees: ''
 
 ---
